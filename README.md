@@ -2,8 +2,11 @@
   <b>NGUYEN KHANH NHU</b>
 </h1>
 
-## Hi there 👋
-My name is Nguyen Khanh Nhu. I'm senior student at [University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology) with Computer Science major.
+## About me 👋
+My name is Nguyen Khanh Nhu.
+- 🔭 I'm currently senior student at [University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology) with **Computer Science** major.
+- 🌱 I’m currently focusing on **Data Analyst**.
+- 🌱 I have basic knowledge in **Data Structure**, **Natural Language Processing**, **Operating System**
 
 <!--
 
