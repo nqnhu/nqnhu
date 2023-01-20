@@ -1,9 +1,11 @@
-<p style="text-align:center">NGUYEN KHANH NHU</p>
+<h1 align="center">
+  <b>NGUYEN KHANH NHU</b>
+</h1>
 
 ## Hi there 👋
+My name is Nguyen Khanh Nhu. I'm senior student at [University of Information Technology - Vietnam National University (UIT - VNU-HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology) with Computer Science major.
 
 <!--
-## <a href="https://emoji.gg/emoji/6069-devilish"><img src="https://emoji.gg/assets/emoji/6069-devilish.png" width="32px" height="32px" alt="devilish"></a> About me:
 
 Here are some ideas to get you started:
 
