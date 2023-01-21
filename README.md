@@ -12,21 +12,25 @@
 
 ---------------------------------------------------------------
 
-<br>
 <h2> <a href="https://www.flaticon.com/search?word=statistic&color=color"><img src="https://cdn-icons-png.flaticon.com/512/4064/4064936.png" width="25px" height="25px" alt="devilish"></a> My GitHub Stats </h2>
 
 -------------------------------------------------------------
  ## <a href="https://www.flaticon.com/search?word=contact&color=color"><img src="https://cdn-icons-png.flaticon.com/512/2343/2343694.png" width="32px" height="32px" alt="devilish"></a> Contact with me
  
- - <img align="left" alt="Dave's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" /> Facebook: [Khánh Như](https://www.instagram.com/nq.nhuuu/) 
-
-
- <a href="https://www.instagram.com/nq.nhuuu/">
-  <img align="left" alt="Dave's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
+<a href="https://github.com/nqnhu">
+  <img align="left" alt="Nhu's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
- 
-<a href="https://wwww.facebook.com/nqnhuuu/">
-  <img align="left" alt="Dave's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
+
+<a href="https://www.instagram.com/nq.nhuuu/">
+  <img align="left" alt="Nhu's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
+</a>
+
+<a href="https://www.facebook.com/nq.nhuuu/">
+  <img align="left" alt="Nhu's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
+</a>
+
+<a href="https://www.linkedin.com/in/bach-khoi-vo-841193199/">
+  <img align="left" alt="Nhu's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
 
