@@ -13,7 +13,7 @@
 ---------------------------------------------------------------
 
 <br>
-<h2> <a href="https://www.flaticon.com/search?word=statistic&color=color"><img src="https://cdn-icons-png.flaticon.com/512/4064/4064936.png" width="32px" height="32px" alt="devilish"></a> My GitHub Stats </h2>
+<h2> <a href="https://www.flaticon.com/search?word=statistic&color=color"><img src="https://cdn-icons-png.flaticon.com/512/4064/4064936.png" width="28px" height="28px" alt="devilish"></a> My GitHub Stats </h2>
 
 -------------------------------------------------------------
  ## <a href="https://www.flaticon.com/search?word=contact&color=color"><img src="https://cdn-icons-png.flaticon.com/512/2343/2343694.png" width="32px" height="32px" alt="devilish"></a> Contact with me
