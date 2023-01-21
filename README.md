@@ -8,7 +8,7 @@
 - <a href="https://www.flaticon.com/search?word=data%20analyst&color=color"><img src="https://cdn-icons-png.flaticon.com/512/8637/8637114.png" width="16px" height="16px" alt="devilish"></a> I’m currently focusing on **Data Analyst**.
 - <a href="https://www.flaticon.com/search?word=knowledge%20base&color=color"><img src="https://cdn-icons-png.flaticon.com/512/1946/1946042.png" width="16px" height="16px" alt="devilish"></a> I have basic knowledge in **Python**, **Data Structure**, **Computational Thinking**, **Operating System**
 - 🎢 Profile Visitors Count:  
-![](https://komarev.com/ghpvc/?username=itskoi&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=nqnhu&color=blueviolet)
 
 ---------------------------------------------------------------
 
