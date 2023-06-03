@@ -21,15 +21,11 @@
   <img align="left" alt="Nhu's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
-<a href="https://www.instagram.com/nq.nhuuu/">
-  <img align="left" alt="Nhu's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
-</a>
-
 <a href="https://www.facebook.com/nq.nhuuu/">
   <img align="left" alt="Nhu's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
 
-<a href="https://www.linkedin.com/in/bach-khoi-vo-841193199/">
+<a href="">
   <img align="left" alt="Nhu's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
