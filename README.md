@@ -6,16 +6,18 @@
 - <a href="https://www.flaticon.com/search?word=education&color=color"><img src="https://cdn-icons-png.flaticon.com/512/3197/3197967.png" width="20px" height="20px" alt="devilish"></a> I'm a senior student at [University of Information Technology - VNUHCM](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology) with **Computer Science** major.
 - <a href="https://www.flaticon.com/search?word=data%20analyst&color=color"><img src="https://cdn-icons-png.flaticon.com/512/8637/8637114.png" width="20px" height="20px" alt="devilish"></a> I’m currently focusing on **Data Engineer**.
 - <a href="https://www.flaticon.com/search?word=knowledge%20base&color=color"><img src="https://cdn-icons-png.flaticon.com/512/1946/1946042.png" width="20px" height="20px" alt="devilish"></a> Technical Skills
-> Proficient in Python and SQL
-> Sound knowledge in Data pipeline: ingestion, processing, ETL, and visualization.
-> Experienced with various Python frameworks and libraries, including Pandas, Numpy, PySpark, Matplotlib, and Seaborn.
-> Experienced with various Big Data tools, including Spark, Hadoop, Docker, MongoDB, DataGrip
+> - Proficient in Python and SQL
+> - Sound knowledge in Data pipeline: ingestion, processing, ETL, and visualization.
+> - Experienced with various Python frameworks and libraries, including Pandas, Numpy, PySpark, Matplotlib, and Seaborn.
+> - Experienced with various Big Data tools, including Spark, Hadoop, Docker, MongoDB, DataGrip
 - 🎢 Profile Visitors Count:  
 ![](https://komarev.com/ghpvc/?username=nqnhu&color=blueviolet)
 
 ---------------------------------------------------------------
 
 <h2> <a href="https://www.flaticon.com/search?word=statistic&color=color"><img src="https://cdn-icons-png.flaticon.com/512/4064/4064936.png" width="25px" height="25px" alt="devilish"></a> My GitHub Stats </h2>
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=nqnhu&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nqnhu&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 -------------------------------------------------------------
  ## <a href="https://www.flaticon.com/search?word=contact&color=color"><img src="https://cdn-icons-png.flaticon.com/512/2343/2343694.png" width="32px" height="32px" alt="devilish"></a> Contact with me
@@ -28,7 +30,7 @@
   <img align="left" alt="Nhu's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
 
-<a href="">
+<a href="https://linkedin.com/in/ngnhu">
   <img align="left" alt="Nhu's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
