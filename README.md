@@ -15,9 +15,8 @@
 
 ---------------------------------------------------------------
 
-<h2> <a href="https://www.flaticon.com/search?word=statistic&color=color"><img src="https://cdn-icons-png.flaticon.com/512/4064/4064936.png" width="25px" height="25px" alt="devilish"></a> My GitHub Stats </h2>
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=nqnhu&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nqnhu&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 -------------------------------------------------------------
  ## <a href="https://www.flaticon.com/search?word=contact&color=color"><img src="https://cdn-icons-png.flaticon.com/512/2343/2343694.png" width="32px" height="32px" alt="devilish"></a> Contact with me
@@ -39,6 +38,14 @@
 
 
 <!--
+
+
+
+<h2> <a href="https://www.flaticon.com/search?word=statistic&color=color"><img src="https://cdn-icons-png.flaticon.com/512/4064/4064936.png" width="25px" height="25px" alt="devilish"></a> My GitHub Stats </h2>
+![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=nqnhu&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nqnhu&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 Here are some ideas to get you started:
 
